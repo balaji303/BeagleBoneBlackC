@@ -2,7 +2,7 @@
  * 
  * 
  * 
- * 7-Segment LED's Up counter with delay
+ * 7-Segment LED's counter with delay
  * 
  * Need to run the .out file with arguments
  * 
@@ -10,7 +10,7 @@
  * 
  * Increments the Numbers in LED display at a delay of 1000millisec
  * 
- * Code by @balaji303
+ * Code by @balaji303 using Beagle Bone Black
  * 
  * BBB P8.7 ->   GPIO_66	-> 7SD a	
  * BBB P8.8 ->   GPIO_67	-> 7SD b
