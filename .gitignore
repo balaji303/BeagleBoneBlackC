@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Other Files
+/documents/~$agleBone-converted-converted.docx
