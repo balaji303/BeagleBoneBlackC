@@ -1,5 +1,9 @@
 # Uboot Docs
 
+- A bootloader, also spelled as boot loader or called boot manager and bootstrap loader, is a computer program that is responsible for booting a computer.
+When a computer is turned off, its software‍—‌including operating systems, application code, and data‍—‌remains stored on non-volatile memory. When the computer is powered on, it typically does not have an operating system or its loader in random-access memory (RAM). The computer first executes a relatively small program stored in read-only memory (ROM, and later EEPROM, NOR flash) along with some needed data, to initialize RAM (especially on x86 systems), to access the nonvolatile device (usually block device, eg NAND flash) or devices from which the operating system programs and data can be loaded into RAM.
+- [Difference between u-boot and bios](https://superuser.com/questions/708196/what-is-difference-between-u-boot-and-bios)
+
 - The SOC used in BBB is a Sitara Based AM3358x one, but there is no folder(arch/arm/) based on Sitara arch
 - Instead there is another Architeture based folders called DaVinci which is also from TI
 - The DaVinci Arch is for devices with Video Application
