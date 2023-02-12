@@ -1,0 +1,6 @@
+Control inBuilt GPIO
+
+debian@beaglebone:/sys/class/leds/beaglebone:green:usr1$ echo 1 > brightness
+debian@beaglebone:/sys/class/leds/beaglebone:green:usr1$ echo 0 > brightness
+
+cat trigger

@@ -1,0 +1,20 @@
+debian@beaglebone:/$ cd sys/class/gpio/
+debian@beaglebone:/sys/class/gpio$ ls
+export   gpio114  gpio15  gpio27  gpio35  gpio45  gpio51  gpio67  gpio73  gpio8   gpio9
+gpio10   gpio115  gpio19  gpio3   gpio36  gpio46  gpio60  gpio68  gpio74  gpio80  gpiochip0
+gpio11   gpio116  gpio2   gpio30  gpio37  gpio47  gpio61  gpio69  gpio75  gpio81  gpiochip32
+gpio110  gpio117  gpio20  gpio31  gpio38  gpio48  gpio62  gpio7   gpio76  gpio86  gpiochip64
+gpio111  gpio12   gpio22  gpio32  gpio39  gpio49  gpio63  gpio70  gpio77  gpio87  gpiochip96
+gpio112  gpio13   gpio23  gpio33  gpio4   gpio5   gpio65  gpio71  gpio78  gpio88  unexport
+gpio113  gpio14   gpio26  gpio34  gpio44  gpio50  gpio66  gpio72  gpio79  gpio89
+debian@beaglebone:/sys/class/gpio$ cd gpio67
+debian@beaglebone:/sys/class/gpio/gpio67$ echo in > direction
+debian@beaglebone:/sys/class/gpio/gpio67$ cat direction
+in
+debian@beaglebone:/sys/class/gpio/gpio67$ cat value
+1
+debian@beaglebone:/sys/class/gpio/gpio67$ cat value
+0
+debian@beaglebone:/sys/class/gpio/gpio67$ cat value
+1
+debian@beaglebone:/sys/class/gpio/gpio67$
