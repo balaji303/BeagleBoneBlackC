@@ -17,3 +17,7 @@ PIN number to Kernel GPIO
 
 GPIO1[6] -> 1*32 + 6 = GPIO_38
 GPIO0[27] -> 0*32 + 27 = GPIO_27
+
+## License
+
+Checkout the license [here](https://github.com/balaji303/BeagleBoneBlackC/blob/main/LICENSE)
