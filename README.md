@@ -13,6 +13,7 @@ This repo has code for beagleBone Black Rev C
 - [System-Reference-Manual](https://github.com/beagleboard/beaglebone-black/wiki/System-Reference-Manual)
 - [Latest Production Files](https://elinux.org/Beagleboard:BeagleBoneBlack#LATEST_PRODUCTION_FILES_.28C.29)
 - [Linux Commands](https://xmind.app/m/WwtB/)
+- [Local link of Cloud9 IDE](http://192.168.7.2:3000/ide.html)
 
 PIN number to Kernel GPIO
 
