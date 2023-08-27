@@ -16,6 +16,7 @@ This repo has code for beagleBone Black Rev C
 PIN number to Kernel GPIO
 
 GPIO1[6] -> 1*32 + 6 = GPIO_38
+
 GPIO0[27] -> 0*32 + 27 = GPIO_27
 
 ## License
