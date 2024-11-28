@@ -14,6 +14,7 @@ This repo has code for beagleBone Black Rev C
 - [Latest Production Files](https://elinux.org/Beagleboard:BeagleBoneBlack#LATEST_PRODUCTION_FILES_.28C.29)
 - [Linux Commands](https://xmind.app/m/WwtB/)
 - [Local link of Cloud9 IDE](http://192.168.7.2:3000/ide.html)
+- [Linux Source Online](https://elixir.bootlin.com/linux/v6.12/source)
 
 PIN number to Kernel GPIO
 
